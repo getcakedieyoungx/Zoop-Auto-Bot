@@ -1,8 +1,5 @@
 # Zoop Auto Bot
-
-![image](https://github.com/user-attachments/assets/b753b34b-39c9-44b7-9b95-b24f01dfe26d)
-
-
+15M$ Funding Zoop Project.
 An automated bot for the Zoop Telegram Mini App that handles daily tasks and auto-spinning.
 
 Register first: 
